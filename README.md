@@ -1,3 +1,6 @@
+Author
+==========
+"Kosir, Jonathan", kosirjm
 02_Cpp
 ======
 
